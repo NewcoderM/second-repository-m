@@ -377,7 +377,7 @@ Instead of using **traditional Django views**, we opted for a **RESTful API usin
 
 ---
 
-## [🛠️ Testing](#-testing)
+## 🛠️Testing
 
 ### 📱 Responsiveness  
 Testing was conducted on multiple devices, including a **Lenovo Ideapad Laptop** and a **Samsung Galaxy A5**, using the latest versions of **Google Chrome, Mozilla Firefox, and Opera**. For more detailed testing, **Google DevTools** was used to simulate different screen sizes.  
