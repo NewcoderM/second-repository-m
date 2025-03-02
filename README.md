@@ -256,7 +256,7 @@ As tasks were completed, user stories moved from **"In Progress"** to **"Complet
 
 ---
 
-###📋List of User Stories  
+### 📋List of User Stories  
 
 #### ✅ **Mandatory User Stories**  
 1. **USER STORY: User needs to authenticate**  
