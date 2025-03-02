@@ -64,7 +64,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 
 ## 🎯 Features
 
-### Features Implemented
+
 
 ### Features Left to Implement
 
@@ -268,7 +268,7 @@ As tasks were completed, user stories moved from **"In Progress"** to **"Complet
 
 ---
 
-## 🎯 Features  
+## 🎯 Features 
 
 ### 🔹 User Features  
 ✅ View a collection of books  
@@ -299,7 +299,8 @@ As tasks were completed, user stories moved from **"In Progress"** to **"Complet
 
 ---
 
-## 🚀 Features Implemented  
+## 🚀 Features Implemented
+### Features Implemented
 
 Each **User Story** contributed to the following implemented features:
 
