@@ -17,10 +17,12 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 - [Database Planning](#database-planning)
 - [Data Structure](#data-structure)
 - [Wireframes](#wireframes)
+
 - [🔄 Logic Flows](#-logic-flows)
+  -- [Auth Logic](#auth-logic)
   - [Books Logic](#books-logic)
   - [Contact Logic](#contact-logic)
-  - [Auth Logic](#auth-logic)
+  
 - [⚡ Agile Development](#-agile-development)
   - [User Stories](#user-stories)
 - [🎯 Features](#-features)
@@ -126,48 +128,9 @@ The database structure was planned using **Lucidchart** to visualize relationshi
 ---
 
 
-## 🔄 Logic Flows  
-
-### 📚 Books Logic  
-
-1. Start
-2. Retrieve book object by ID (from URL/path parameter)
-3. Fetch all comments for the book (e.g., book.comments.all())
-4. Serialize comments (using CommentSerializer)
-5. Return 200 OK with serialized data → End
-
-![Flowchart: Books](assets/images/books-logic.jpeg)
-
-[🔝 Back to Top](#-table-of-contents)
-
----
-
-### 📩 Contact Logic    
-
-1. Start
-2. Check request method:
-3. POST:
-4. Create serializer with request.data
-5. Is serializer valid?
-6. No:
-7. Return 400 Bad Request (with errors) → End
-8. Yes:
-9. Save data (to database)
-10. Return 201 Created → End
-11. GET Flow (List Contacts)
-12. Start
-13. Check request method:
-14. GET:
-15. Fetch all contacts from the database
-16. Serialize contacts data (using ContactSerializer)
-17. Return 200 OK (with serialized data) → End
-
-![Flowchart: Contact](assets/images/contact-logic.jpeg)
-
-[🔝 Back to Top](#-table-of-contents)
+# 🔄 Logic Flows  
 
 ### 🔐 Auth Logic 
-# Logic Flows
 
 ## 1. Register Flow
 **Purpose:** Allow users to create an account.
@@ -219,6 +182,46 @@ The database structure was planned using **Lucidchart** to visualize relationshi
 ![Flowchart: Auth](assets/images/auth-logic.jpeg)
 
 [🔝 Back to Top](#-table-of-contents)
+
+
+### 📚 Books Logic  
+
+1. Start
+2. Retrieve book object by ID (from URL/path parameter)
+3. Fetch all comments for the book (e.g., book.comments.all())
+4. Serialize comments (using CommentSerializer)
+5. Return 200 OK with serialized data → End
+
+![Flowchart: Books](assets/images/books-logic.jpeg)
+
+[🔝 Back to Top](#-table-of-contents)
+
+---
+
+### 📩 Contact Logic    
+
+1. Start
+2. Check request method:
+3. POST:
+4. Create serializer with request.data
+5. Is serializer valid?
+6. No:
+7. Return 400 Bad Request (with errors) → End
+8. Yes:
+9. Save data (to database)
+10. Return 201 Created → End
+11. GET Flow (List Contacts)
+12. Start
+13. Check request method:
+14. GET:
+15. Fetch all contacts from the database
+16. Serialize contacts data (using ContactSerializer)
+17. Return 200 OK (with serialized data) → End
+
+![Flowchart: Contact](assets/images/contact-logic.jpeg)
+
+[🔝 Back to Top](#-table-of-contents)
+
 
 ---
 
