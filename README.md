@@ -343,7 +343,8 @@ Each **User Story** contributed to the following implemented features:
 ---
 
 
-## 📌 API 
+## 📌API 
+
 
 ![API](assets/images/api-home.png)
 
