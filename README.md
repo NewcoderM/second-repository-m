@@ -58,7 +58,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 
 ## ⚡ Agile Development
 
-### User Stories
+
 
 ## 🎯 Features
 
@@ -240,8 +240,8 @@ To see the project's **Kanban board**, [click here](https://github.com/users/New
 [🔝 Back to Top](#-table-of-contents)
 
 ---
-
-### **📌 User Stories**  
+  
+### 📌User Stories
 To build a user-centric product, I stepped into the shoes of future users and identified essential features and functionalities. This led to the creation of **12 User Stories**:  
 - **6 Mandatory** stories, providing core functionality.  
 
