@@ -30,6 +30,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 - [🎯 Features](#-features)
   - [Features Implemented](#features-implemented)
   - [Features Left to Implement](#features-left-to-implement)
+
 - [🛠 Technology Stack](#-technology-stack)
   - [API](#api)
 - [🧪 Testing](#-testing)
@@ -40,33 +41,9 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 - [🙌 Credits & Acknowledgements](#-credits--acknowledgements)
 
 
-# 🌟 Project Overview
-
-## 🖥️ UX Design
-
-## Database Planning
-
-## Data Structure
-
-## Wireframes
-
-## 🔄 Logic Flows
-
-### Books Logic
-
-### Contact Logic
-
-### Auth Logic
-
-## ⚡ Agile Development
 
 
 
-## 🎯 Features
-
-
-
-### Features Left to Implement
 
 ## 🛠 Technology Stack
 
@@ -89,7 +66,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 
 ---
 
-## 🌟 Project Overview 
+# 🌟 Project Overview 
 
 - Users can browse books, read descriptions, and leave comments.  
 - Secure user auth 🔹 Admin Features  
@@ -101,13 +78,14 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 
 ## 🖥️ UX Design  
 
-### Database Planning  
+## Database Planning
+ 
 The database structure was planned using **Lucidchart** to visualize relationships between data models.  
 
-### Data Structure  
+## Data Structure  
 ![Data Structure](assets/images/db_structure.jpeg)
 
-### Wireframes  
+## Wireframes  
 ![Home Page](assets/images/home.jpeg)
 
 ![Home Page Responsive](assets/images/home-responsive.jpeg)
@@ -356,6 +334,12 @@ Each **User Story** contributed to the following implemented features:
 (*Related to:* `USER STORY: Create UX`)  
 
 [🔝 Back to Top](#-table-of-contents)
+
+
+## Features Left to Implement
+
+
+
 
 ---
 
