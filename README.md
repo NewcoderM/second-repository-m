@@ -26,7 +26,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 - [⚡ Agile Development](#-agile-development)
   - [Overview](#overview)
   - [User Stories](#user-stories)
-  - [List of User Stories](#-list-of-user-stories)
+  - [📋List of User Stories](#-list-of-user-stories)
 - [🎯 Features](#-features)
   - [Features Implemented](#features-implemented)
   - [Features Left to Implement](#features-left-to-implement)
