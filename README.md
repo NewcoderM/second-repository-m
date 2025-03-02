@@ -19,7 +19,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 - [Wireframes](#wireframes)
 
 - [🔄 Logic Flows](#-logic-flows) 
-  -- [Auth Logic](#auth-logic)
+  - [Auth Logic](#auth-logic)
   - [Books Logic](#books-logic)
   - [Contact Logic](#contact-logic)
   
