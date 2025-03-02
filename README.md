@@ -24,6 +24,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
   - [Contact Logic](#contact-logic)
   
 - [⚡ Agile Development](#-agile-development)
+  -[📌Overview](#-overview)
   - [User Stories](#user-stories)
 - [🎯 Features](#-features)
   - [Features Implemented](#features-implemented)
@@ -227,7 +228,7 @@ The database structure was planned using **Lucidchart** to visualize relationshi
 
 ## ⚡ Agile Development  
 
-### 📌 **Overview**  
+### 📌Overview 
 To ensure smooth project management, I utilized **Agile methodology** along with a **Kanban board** in GitHub Projects. This approach helped in tracking progress, managing tasks, and ensuring timely completion of features.  
 
 - **Epics & User Stories:** The project was broken down into **user stories** to prioritize development.  
