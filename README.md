@@ -24,7 +24,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
   - [Contact Logic](#contact-logic)
   
 - [⚡ Agile Development](#-agile-development)
-  -[Overview](#overview)
+  - [Overview](#overview)
   - [User Stories](#user-stories)
   - 
 - [🎯 Features](#-features)
