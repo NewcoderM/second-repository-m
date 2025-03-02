@@ -299,8 +299,7 @@ As tasks were completed, user stories moved from **"In Progress"** to **"Complet
 
 ---
 
-## 🚀 Features Implemented
-## Features Implemented
+## 🚀Features Implemented
 
 Each **User Story** contributed to the following implemented features:
 
