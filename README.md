@@ -45,21 +45,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 
 
 
-## 🛠 Technology Stack
 
-### API
-
-## 🧪 Testing
-
-### Manual Testing
-
-### Known Bugs
-
-## 🚀 Deployment
-
-## 📚 Resources
-
-## 🙌 Credits & Acknowledgements
 
 
 
