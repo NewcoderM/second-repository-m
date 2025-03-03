@@ -36,7 +36,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 - [🧪 Testing](#-testing)
   - [Manual Testing](#manual-testing)
   - [Known Bugs and Issues](#known-bugs-and-issues)
-- [🚀 Deployment](#-deployment)
+- [🚀Deployment](#deployment)
 - [📚 Resources](#-resources)
 - [🙌 Credits & Acknowledgements](#-credits--acknowledgements)
 
@@ -446,7 +446,7 @@ Testing was conducted on multiple devices, including a **Lenovo Ideapad Laptop**
 
 [🔝 Back to Top](#-table-of-contents)
 
-# Deployment
+# 🚀Deployment
 
 I deployed my fullstack Django + React project on [Railway](https://railway.app/). I chose Railway over Heroku because SQLite (which I used for my database) is not well-suited for Heroku's ephemeral filesystem.
 
