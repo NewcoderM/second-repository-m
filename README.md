@@ -33,7 +33,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 
 - [🛠 Technology Stack](#-technology-stack)
   - [API](#api)
-- - [🧪 Testing](#-testing)
+- [🧪 Testing](#-testing)
   - [Manual Testing](#manual-testing)
   - [Known Bugs](#known-bugs)
 - [🚀 Deployment](#-deployment)
