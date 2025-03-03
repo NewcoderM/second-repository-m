@@ -393,7 +393,7 @@ Testing was conducted on multiple devices, including a **Lenovo Ideapad Laptop**
 ![Test: Contact Page](assets/images/contact-test.jpeg)
 ---
 
-### ✅ **Manual Testing**  
+### ✅Manual Testing  
 
 #### **Account Registration Tests**  
 | Test | Result |
