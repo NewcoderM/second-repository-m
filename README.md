@@ -33,7 +33,7 @@ A **Full-Stack web application** where users can explore a variety of books, lea
 
 - [🛠 Technology Stack](#-technology-stack)
   - [API](#api)
-- [🛠️Testing](#testing)
+- - [🧪 Testing](#-testing)
   - [Manual Testing](#manual-testing)
   - [Known Bugs](#known-bugs)
 - [🚀 Deployment](#-deployment)
@@ -377,7 +377,7 @@ Instead of using **traditional Django views**, we opted for a **RESTful API usin
 
 ---
 
-## 🛠️Testing
+## 🧪 Testing
 
 ### 📱 Responsiveness  
 Testing was conducted on multiple devices, including a **Lenovo Ideapad Laptop** and a **Samsung Galaxy A5**, using the latest versions of **Google Chrome, Mozilla Firefox, and Opera**. For more detailed testing, **Google DevTools** was used to simulate different screen sizes.  
