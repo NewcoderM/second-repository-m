@@ -194,6 +194,9 @@ The database structure was planned using **Lucidchart** to visualize relationshi
 ## ⚡ Agile Development  
 
 ### 📌Overview 
+
+![KanbanBoard](assets/images/user-story-listä.png)
+
 To ensure smooth project management, I utilized **Agile methodology** along with a **Kanban board** in GitHub Projects. This approach helped in tracking progress, managing tasks, and ensuring timely completion of features.  
 
 - **Epics & User Stories:** The project was broken down into **user stories** to prioritize development.  
@@ -203,11 +206,12 @@ To ensure smooth project management, I utilized **Agile methodology** along with
 To see the project's **Kanban board**, [click here](https://github.com/users/NewcoderM/projects/3/views/1).  
 
 
-[🔝 Back to Top](#-table-of-contents)
-
 ---
   
 ### 📌User Stories
+
+![KanbanBoard12](assets/images/user-story-details.png)
+
 To build a user-centric product, I stepped into the shoes of future users and identified essential features and functionalities. This led to the creation of **12 User Stories**:  
 - **6 Mandatory** stories, providing core functionality.  
 
@@ -230,6 +234,9 @@ As tasks were completed, user stories moved from **"In Progress"** to **"Complet
 5. **USER STORY: Structure Database**  
 6. **USER STORY: Create UX**  
 
+
+
+[🔝 Back to Top](#-table-of-contents)
 ---
 
 ## 🎯 Features 
@@ -340,6 +347,9 @@ Each **User Story** contributed to the following implemented features:
 | **Fetch** | API requests from React |
 | **React Router** | Navigation between pages |
 | **Railway** | Deployment platform for hosting backend and frontend |
+
+
+[🔝 Back to Top](#-table-of-contents)
 ---
 
 
@@ -590,6 +600,9 @@ python manage.py createsuperuser
 ## 🎉 Deployment Completed!
 My Django + React app is now live on Railway! 🚀
 
+
+[🔝 Back to Top](#-table-of-contents)
+
 ---
 
 ## 📚 Resources  
@@ -637,3 +650,7 @@ This project was made possible through the collective efforts of various open-so
 ### 🔹 **Special Thanks**  
 A huge thank you to my mentor Spencer Barriball, a person who always dedicated time to help me and not just even in live meetings but also through Slack the whole time.
 Another thank you to Prolet in StudentsCare who was a real help answering to my inquiries and helping with giving me the proper prolonging papers when I got sick. And to all the people in CodeInstitue who are working on supporting me and my fellow learners,..Thank you.
+
+
+
+[🔝 Back to Top](#-table-of-contents)
