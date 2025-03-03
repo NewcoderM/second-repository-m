@@ -96,7 +96,7 @@ The database structure was planned using **Lucidchart** to visualize relationshi
 
 # 🔄 Logic Flows  
 
-### 🔐 Auth Logic 
+### 🔐Auth Logic 
 
 ## 1. Register Flow
 **Purpose:** Allow users to create an account.
@@ -147,10 +147,9 @@ The database structure was planned using **Lucidchart** to visualize relationshi
 
 ![Flowchart: Auth](assets/images/auth-logic.jpeg)
 
-[🔝 Back to Top](#-table-of-contents)
 
 
-### 📚 Books Logic  
+### 📚Books Logic  
 
 1. Start
 2. Retrieve book object by ID (from URL/path parameter)
@@ -160,11 +159,10 @@ The database structure was planned using **Lucidchart** to visualize relationshi
 
 ![Flowchart: Books](assets/images/books-logic.jpeg)
 
-[🔝 Back to Top](#-table-of-contents)
 
 ---
 
-### 📩 Contact Logic    
+### 📩Contact Logic    
 
 1. Start
 2. Check request method:
